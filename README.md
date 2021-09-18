@@ -16,6 +16,8 @@ error.htmlの名前を変える場合はwindows.openの後の名前も変えて�
 
 iretlmh.txtでこのタブが開かれます
 
+iretlmh.txtと同じファイルに入れておいてください
+
 もう一度言いますが
 ### 自己責任でお願いします
 
@@ -37,6 +39,8 @@ The virus is not charged
 If you change the name of error.html, please change the name after windows.open
 
 iretlmh.txt will open this tab
+
+Please put it in the same file as iretlmh.txt
 
 I'll say it again
 ### Please take responsibility for your actions
