@@ -1,2 +1,0 @@
-# Joke-program
-ドッキリ
