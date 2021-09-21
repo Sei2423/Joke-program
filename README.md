@@ -25,7 +25,7 @@ irwlmth.txtと同じファイルに入れておいてください
 
 # English
 ## irwlmth.txt
-irwlmth.txt is replaced with unicode 202d (8237), 202e (8238)
+irwlmth.txt is replaced with unicode 202e (8238)
 
 Feel free to change the name
 
