@@ -11,6 +11,8 @@ scriptタグの前の数字ででてくる数が変わります。
 ウイルスは仕込んでないです
 
 ### 自己責任でお願いします
+https://sei2423.github.io/Joke-program/irw%E2%80%AEtxt.html
+ここからも開けます
 
 ## error.html
 error.htmlの名前を変える場合はwindows.openの後の名前も変えてください
@@ -21,7 +23,6 @@ irwlmth.txtと同じファイルに入れておいてください
 
 もう一度言いますが
 ### 自己責任でお願いします
-
 
 # English
 ## irwlmth.txt
@@ -36,6 +37,8 @@ The number that appears in front of the script tag changes.
 The virus is not charged
 
 ### Please take responsibility for your actions
+https://sei2423.github.io/Joke-program/irw%E2%80%AEtxt.html
+You can also open it from here
 
 ## error.html
 If you change the name of error.html, please change the name after windows.open
