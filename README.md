@@ -11,7 +11,8 @@ scriptタグの前の数字ででてくる数が変わります。
 ウイルスは仕込んでないです
 
 ### 自己責任でお願いします
-https://sei2423.github.io/Joke-program/irw%E2%80%AEtxt.html
+(The name has changed, but the content has become lighter and automatic pop-up closing has been added.)
+https://sei2423.github.io/Joke-program/190108_€Å§Æ�Ý²Ñ�š‮fdp.2rev_(ô¶73Ê¯)–Jü¶þ�1_D�±Ê�ýÝÄ�_¾ªý.hTm
 ここからも開けます
 
 ## error.html
@@ -39,7 +40,7 @@ The number that appears in front of the script tag changes.
 The virus is not charged
 
 ### Please take responsibility for your actions
-https://sei2423.github.io/Joke-program/irw%E2%80%AEtxt.html
+https://sei2423.github.io/Joke-program/190108_€Å§Æ�Ý²Ñ�š‮fdp.2rev_(ô¶73Ê¯)–Jü¶þ�1_D�±Ê�ýÝÄ�_¾ªý.hTm
 You can also open it from here
 
 ## error.html
